@@ -20,7 +20,7 @@ Projeto gratuito da One Bit Code.
 
 <h2><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/a2e28590-7b92-43d6-bc0c-8f7461b1914c"> Links </h2>
 
-- [Figma] (https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?type=design&mode=design&t=BsvdcPs7gTc6ED80-0)
+- [Figma](https://www.figma.com/file/76GJ4uK7PyKeAo6dcpVyjA/Tom's-Jazz-School?type=design&mode=design&t=BsvdcPs7gTc6ED80-0)
 - [OneBitCode](https://pro.onebitcode.com/)
 
 <h2><a href="https://christianebs.github.io/curriculo/"><img width="20px" src="https://github.com/christianebs/christianebs/assets/108686840/cc4e82ab-f1fc-436a-b3d2-89d5bdb11f32"> Christiane Barbosa </a></h2>
